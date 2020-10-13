@@ -29,4 +29,7 @@ yarn add multer
 
 Install express async errors for error handling
 yarn add express-async-errors
+
+Install yup for data validation
+yarn add yup
 ```

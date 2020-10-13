@@ -32,4 +32,7 @@ yarn add express-async-errors
 
 Install yup for data validation
 yarn add yup
+
+Install cors to give access in different domains
+yarn add cors
 ```

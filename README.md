@@ -20,4 +20,13 @@ yarn tsc --init
 
 Install the ts-node-dev dependecy
 yarn add ts-node-dev -D
+
+Install typeorm and sqlite3 support
+yarn add typeorm sqlite3
+
+Install multer for image upload
+yarn add multer
+
+Install express async errors for error handling
+yarn add express-async-errors
 ```

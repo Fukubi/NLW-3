@@ -2,9 +2,6 @@
 
 ## COMMANDS USED
 ```
-Create react web app
-yarn create react-app projectname --template typescript
-
 Backend
 Initialize yarn
 yarn init -y
@@ -35,4 +32,11 @@ yarn add yup
 
 Install cors to give access in different domains
 yarn add cors
+
+Web App
+Create react web app
+yarn create react-app projectname --template typescript
+
+For handle map
+yarn add leaflet react-leaflet
 ```

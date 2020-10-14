@@ -39,4 +39,7 @@ yarn create react-app projectname --template typescript
 
 For handle map
 yarn add leaflet react-leaflet
+
+For connection with back-end
+yarn add axios
 ```

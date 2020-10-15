@@ -42,4 +42,19 @@ yarn add leaflet react-leaflet
 
 For connection with back-end
 yarn add axios
+
+Mobile App
+Create mobile project
+expo init mobile
+
+Handle maps using expo 
+expo install react-native-maps
+
+Use font nunito from google fonts and change fonts on mobile
+expo install @expo-google-fonts/nunito expo-font
+
+For navigation handling
+yarn add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/stack
 ```
